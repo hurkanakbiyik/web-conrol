@@ -1,0 +1,37 @@
+{
+  "name": "web-conrol-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "lodash": "^4.11.1",
+    "mocha": "^2.3.0",
+    "chai": "^4.1.2",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "4.11.5",
+    "socket.io": "^2.0.4",
+    "socket.io-client": "^2.0.4",
+    "winston": "2.3.1",
+    "request": "^2.83.0",
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "hurkanakbiyik",
+  "license": "MIT",
+  "babel": {
+    "plugins": [
+      "transform-runtime"
+    ],
+    "presets": [
+      "es2015",
+      "stage-0"
+    ]
+  }
+}
