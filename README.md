@@ -3,7 +3,9 @@
 Simple node.js server with socket.io
 
 `cd WebControl`
+
 `npm install`
+
 `npm start`
 
 > Backend Server is running on http://localhost:3010
@@ -15,7 +17,9 @@ Vue.js boilerplate
 ## Build Setup
 
 `cd WebControlClient`
+
 `npm install`
+
 `npm start`
 
 > Frontend Server is running on http://localhost:8080
